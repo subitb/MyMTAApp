@@ -1,5 +1,5 @@
 ID: MyMTAApp
-_schema-version: '3.1'
+_schema-version: '2.0.0'
 description: My MTA app
 version: 0.0.1
 
